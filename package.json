@@ -1,0 +1,19 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Hangman using Constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caseyschneider62/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caseyschneider62/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/Caseyschneider62/Constructor-Hangman#readme"
+}
