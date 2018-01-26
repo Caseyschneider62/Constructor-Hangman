@@ -10,5 +10,26 @@ var letter = function(let){
 	};
 };
 
-//export the constructor
+
+
+// export the constructor
 module.exports = letter;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

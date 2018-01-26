@@ -4,8 +4,8 @@ var prompt = require('prompt');
 // var fs = require("fs");
 var inquirer = require('inquirer');
 
-console.log("Welcome to Chocolate Hangman!");
-console.log("Guess a letter of the name of a chocolate bar");
+console.log("Welcome to Computer Languages!");
+console.log("Guess a letter of the name of a computer language");
 console.log("Goodluck!");
 console.log("-----------------------------");
 prompt.start();
@@ -13,7 +13,7 @@ prompt.start();
 
 
 game = {
- 	wordBank: ['hersheys', 'almondjoy', 'reeses', 'snickers', 'milkyway', 'kitkat', 'twix'],
+ 	wordBank: ['html', 'css', 'javascript', 'node', 'mysql', 'python', 'ruby', 'es6'],
  	wordsWon: 0,
  	guessesRemaining: 10,
  	currentWrd: null,

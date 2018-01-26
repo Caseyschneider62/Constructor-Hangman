@@ -1,5 +1,5 @@
 {
-  "name": "constructor-hangman",
+  "name": "inquirer",
   "version": "1.0.0",
   "description": "Hangman using Constructors",
   "main": "main.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Caseyschneider62/Constructor-Hangman/issues"
   },
-  "homepage": "https://github.com/Caseyschneider62/Constructor-Hangman#readme"
+  "homepage": "https://github.com/Caseyschneider62/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  },
+  "devDependencies": {}
 }
